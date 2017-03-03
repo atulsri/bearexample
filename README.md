@@ -1,8 +1,10 @@
 
 
-# UserExample
-
-
+# BearExample
+CRUD operations usign REST (A nodejs project)
+MongoDb should be installed and running.
+References:
+https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
 
 ## Usage
 
